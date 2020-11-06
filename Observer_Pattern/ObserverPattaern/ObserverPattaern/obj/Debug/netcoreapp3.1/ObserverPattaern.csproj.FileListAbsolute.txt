@@ -1,0 +1,13 @@
+D:\a\Observer_PAttern\ObserverPattaern\ObserverPattaern\bin\Debug\netcoreapp3.1\ObserverPattaern.exe
+D:\a\Observer_PAttern\ObserverPattaern\ObserverPattaern\bin\Debug\netcoreapp3.1\ObserverPattaern.deps.json
+D:\a\Observer_PAttern\ObserverPattaern\ObserverPattaern\bin\Debug\netcoreapp3.1\ObserverPattaern.runtimeconfig.json
+D:\a\Observer_PAttern\ObserverPattaern\ObserverPattaern\bin\Debug\netcoreapp3.1\ObserverPattaern.runtimeconfig.dev.json
+D:\a\Observer_PAttern\ObserverPattaern\ObserverPattaern\bin\Debug\netcoreapp3.1\ObserverPattaern.dll
+D:\a\Observer_PAttern\ObserverPattaern\ObserverPattaern\bin\Debug\netcoreapp3.1\ObserverPattaern.pdb
+D:\a\Observer_PAttern\ObserverPattaern\ObserverPattaern\obj\Debug\netcoreapp3.1\ObserverPattaern.csprojAssemblyReference.cache
+D:\a\Observer_PAttern\ObserverPattaern\ObserverPattaern\obj\Debug\netcoreapp3.1\ObserverPattaern.AssemblyInfoInputs.cache
+D:\a\Observer_PAttern\ObserverPattaern\ObserverPattaern\obj\Debug\netcoreapp3.1\ObserverPattaern.AssemblyInfo.cs
+D:\a\Observer_PAttern\ObserverPattaern\ObserverPattaern\obj\Debug\netcoreapp3.1\ObserverPattaern.csproj.CoreCompileInputs.cache
+D:\a\Observer_PAttern\ObserverPattaern\ObserverPattaern\obj\Debug\netcoreapp3.1\ObserverPattaern.dll
+D:\a\Observer_PAttern\ObserverPattaern\ObserverPattaern\obj\Debug\netcoreapp3.1\ObserverPattaern.pdb
+D:\a\Observer_PAttern\ObserverPattaern\ObserverPattaern\obj\Debug\netcoreapp3.1\ObserverPattaern.genruntimeconfig.cache
